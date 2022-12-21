@@ -1,2 +1,9 @@
 Email | Username = martinwainaina001@gmail.com
 Password = qeyviwbzgrjphghz
+
+
+//sending single emails:
+1. Youtube link: https://www.youtube.com/watch?v=9tD8lA9foxw&t=7s
+2. Download PHPMailer : https://github.com/PHPMailer/PHPMailer
+3. Other useful source code: https://www.codexworld.com/how-to-send-email-from-localhost-in-php/
+4. Mygithub link -> https://github.com/martin-ngigi/Send-Email-PHP
